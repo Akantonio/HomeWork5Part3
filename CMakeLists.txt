@@ -3,4 +3,4 @@ project(HomeWork5Part3)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(HomeWork5Part3 main.cpp)
+add_executable(HomeWork5Part3 main.cpp StopWatch.cpp StopWatch.h)
